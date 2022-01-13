@@ -23,3 +23,15 @@ header {
 .info img {
 	max-width: 90vmin;
 }
+
+h2 {
+	background-color: #47629b;
+	color: white;
+	padding: 0.5rem;
+}
+
+h3 {
+	background-color: #47629b;
+	color: white;
+	padding: 0.5rem;
+}
